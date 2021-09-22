@@ -1,0 +1,6 @@
+node_modules
+src/config/keys.ts
+yarn.lock
+uploads
+client/node_modules
+client/yarn.lock
